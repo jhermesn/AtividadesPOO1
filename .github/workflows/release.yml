@@ -23,7 +23,7 @@ jobs:
       - name: Build
         run: |
           mkdir -p bin
-          javac -encoding UTF-8 -d bin src/*.java
+          javac -encoding UTF-8 -d bin src/**/*.java
 
       - name: Create JAR
         run: |
