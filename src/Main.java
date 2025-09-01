@@ -23,31 +23,31 @@ public class Main {
                 switch (escolha) {
                     case 1:
                         System.out.println("===== Atividade 1 =====\n");
-                        Atividade1.run(scanner);
+                      Atividades.Atividade1.run(scanner);
                         System.out.println("=======================\n");
                         pause(scanner);
                         break;
                     case 2:
                         System.out.println("===== Atividade 2 =====\n");
-                        Atividade2.run(scanner);
+                        Atividades.Atividade2.run(scanner);
                         System.out.println("=======================\n");
                         pause(scanner);
                         break;
                     case 3:
                         System.out.println("===== Atividade 3 =====\n");
-                        Atividade3.run(scanner);
+                        Atividades.Atividade3.run(scanner);
                         System.out.println("=======================\n");
                         pause(scanner);
                         break;
                     case 4:
                         System.out.println("===== Atividade 4 =====\n");
-                        Atividade4.run(scanner);
+                        Atividades.Atividade4.run(scanner);
                         System.out.println("=======================\n");
                         pause(scanner);
                         break;
                     case 5:
                         System.out.println("===== Atividade 5 =====\n");
-                        Atividade5.run(scanner);
+                        Atividades.Atividade5.run(scanner);
                         System.out.println("=======================\n");
                         pause(scanner);
                         break;

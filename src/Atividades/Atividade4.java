@@ -15,6 +15,8 @@
 * * Peso_no_Planeta = (Peso_na_Terra/10) * Gravidade
 */
 
+package Atividades;
+
 import java.util.Locale;
 import java.util.Scanner;
 

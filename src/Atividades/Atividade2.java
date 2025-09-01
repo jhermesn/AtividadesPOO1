@@ -13,6 +13,8 @@
 * O programa deve calcular e exibir o valor a ser pago pelo cliente sabendo-se que o preço do litro da gasolina é R$4,90 e o preço do litro do álcool é R$ 4,00.
 */
 
+package Atividades;
+
 import java.text.NumberFormat;
 import java.util.Locale;
 import java.util.Scanner;

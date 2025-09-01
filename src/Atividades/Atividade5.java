@@ -7,6 +7,8 @@
 * * Renda mensal superior R$ 2.326,00: 27,5 % de impostos de renda
 */
 
+package Atividades;
+
 import java.text.NumberFormat;
 import java.util.Locale;
 import java.util.Scanner;

@@ -13,6 +13,8 @@
 * O programa deverá calcular e exibir o salário mensal do vendedor.
 */
 
+package Atividades;
+
 import java.text.NumberFormat;
 import java.util.Locale;
 import java.util.Scanner;
